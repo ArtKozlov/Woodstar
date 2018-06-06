@@ -1,0 +1,11 @@
+C:\Users\artsiom_kazlou1\Source\Repos\Woodstar\Woodstar\bin\Release\netcoreapp2.0\Woodstar.deps.json
+C:\Users\artsiom_kazlou1\Source\Repos\Woodstar\Woodstar\bin\Release\netcoreapp2.0\Woodstar.runtimeconfig.json
+C:\Users\artsiom_kazlou1\Source\Repos\Woodstar\Woodstar\bin\Release\netcoreapp2.0\Woodstar.runtimeconfig.dev.json
+C:\Users\artsiom_kazlou1\Source\Repos\Woodstar\Woodstar\bin\Release\netcoreapp2.0\Woodstar.dll
+C:\Users\artsiom_kazlou1\Source\Repos\Woodstar\Woodstar\bin\Release\netcoreapp2.0\Woodstar.pdb
+C:\Users\artsiom_kazlou1\Source\Repos\Woodstar\Woodstar\obj\Release\netcoreapp2.0\Woodstar.csproj.CoreCompileInputs.cache
+C:\Users\artsiom_kazlou1\Source\Repos\Woodstar\Woodstar\obj\Release\netcoreapp2.0\Woodstar.AssemblyInfoInputs.cache
+C:\Users\artsiom_kazlou1\Source\Repos\Woodstar\Woodstar\obj\Release\netcoreapp2.0\Woodstar.AssemblyInfo.cs
+C:\Users\artsiom_kazlou1\Source\Repos\Woodstar\Woodstar\obj\Release\netcoreapp2.0\Woodstar.dll
+C:\Users\artsiom_kazlou1\Source\Repos\Woodstar\Woodstar\obj\Release\netcoreapp2.0\Woodstar.pdb
+C:\Users\artsiom_kazlou1\Source\Repos\Woodstar\Woodstar\obj\Release\netcoreapp2.0\Woodstar.csprojResolveAssemblyReference.cache

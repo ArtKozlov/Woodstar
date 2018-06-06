@@ -34,8 +34,17 @@ namespace Woodstar
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseMvc();
+            DefaultFilesOptions options = new DefaultFilesOptions();
+            options.DefaultFileNames.Clear();
+            options.DefaultFileNames.Add("/index.html");
+            app.UseDefaultFiles(options);
             app.UseStaticFiles();
+            app.UseMvc();
+            //app.Use(async (context, next) =>
+            //{
+            //    context.Response.Redirect("/index.html");
+            //    await next();
+            //});
         }
     }
 }
